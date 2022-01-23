@@ -5,7 +5,7 @@
 1. [Data Preparation Notebook](notebooks/Data_Cleaning.ipynb)
 2. [Exploratory Analysis](notebooks/EDA.ipynb)
 3. [Modeling Notebook](notebooks/Modeling.ipynb)
-4. [Presentation Slides](reports/presentation.pdf)
+4. [Presentation Slides](ChicagoCar.pdf)
 
 My purpose for this project was to build a predictive model that would analyze the primary causes of car crashes. Being able to predict the main cause for an incident might help the city to effectively act against it. If we know the cause for an incident, a city can then plan appropriately as to what measures should be taken to prevent them from happening again. In this project, I will be looking at car crash data from the city of Chicago in order to build a predictive model for their causes as well as identify a number of trends from the incidents.
 
